@@ -1,9 +1,8 @@
-baseURL = 'https://lillianwho.com/'
-languageCode = 'zh-CN'
-timeZone = 'Asia/Shanghai'
-title = 'Lillian Who'
+baseURL = 'http://li3huo.com/'
+languageCode = "zh-CN"
+title  =  "li3huo.com"
+subtitle = "生活和工作，两手都要硬！"
 
-# 主题
 theme  =  "hello-friend"
 summaryLength = 140
 hasCJKLanguage = true
@@ -11,6 +10,8 @@ hasCJKLanguage = true
 paginate =  10
 # rss 输出数量
 rssLimit = 5
+timeout = '10m'
+ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
 
 [permalinks]
   posts = "/posts/:filename/"
@@ -18,31 +19,21 @@ rssLimit = 5
 
 [menu]
   [[menu.main]]
-  name="读书"
-  url="/posts/reading/"
+  name="友链"
+  url="/friends/"
   weight="1"
-  [[menu.main]]
-  name="Obsidian"
-  url="/posts/obsidian/"
-  weight="2"
-  [[menu.main]]
-  name="闲聊"
-  url="/posts/chat/"
-  weight="3"
   [[menu.main]]
   name="归档"
   url="/archives/"
   weight="4"
   [[menu.main]]
-  name="关于我"
+  name="关于"
   url="/about/"
-  weight="6"
+  weight="5"
   [[menu.main]]
   name="🔍"
   url="/search/"
   weight="6"
-
-
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -76,12 +67,4 @@ rssLimit = 5
 [outputs]
   home = ["Atom", "HTML","JSON"] # <domain>/atom.xml
   page = ["HTML"]
-  
-[outputFormats.Atom]
-  mediatype = "application/rss"
-  baseName = "atom"
-
-[params.twikoo]
-	enable = true
-  visitor = true
   
