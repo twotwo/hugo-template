@@ -51,10 +51,10 @@ menu:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: Hacper's Blog
+  title: 李三火的博客
   description: "生活和工作，两手都要硬！"
   keywords: [阅读, 运动, 旅行, 生活的点点滴滴]
-  author: Hacper
+  author: li3huo
   DateFormat: "2006-01-02"
   defaultTheme: auto # dark, light
   disableThemeToggle: false

@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "b61520bbfd7d805a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e37e1d745716cfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a0317ec60647565",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/obsidian-blog-hugo.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e117fc0002a02fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bfef7f7782ffae3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "626849c0fc048c02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "503d0aaca596dfc9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dbad4ba7bbcd3f8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c9e85c0b03d453f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "740305480a41cf48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8615949fccaaf27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/obsidian-blog-hugo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caeaa2f25f8048e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/obsidian-blog-hugo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "252ce1509f179d35",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c5dc50085f813fed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/obsidian-blog-hugo.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1a0317ec60647565",
+  "lastOpenFiles": [
+    "hugo-vault.png",
+    "huge-create-vault.png",
+    "Pasted image 20240514211554.png",
+    "posts/obsidian-blog-hugo.md",
+    "goods.md",
+    "talk.md",
+    "me-goods.md",
+    "search.md",
+    "friends.md",
+    "gallery.md",
+    "books.md",
+    "caipu.md",
+    "album.md",
+    "bb.md",
+    "about.md",
+    "posts/2016/au_trip_201603_melbourne_one.md",
+    "huge-create-vault 1.png",
+    "posts/_index.md",
+    "Welcome.md"
+  ]
+}
