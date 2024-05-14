@@ -1,7 +1,8 @@
-baseURL = 'http://li3huo.com/'
+baseURL = "http://li3huo.com/"
 languageCode = "zh-CN"
 title  =  "li3huo.com"
 subtitle = "生活和工作，两手都要硬！"
+copyright = "© 2005 ~ 2024"
 
 theme  =  "hello-friend"
 summaryLength = 140
@@ -25,15 +26,15 @@ ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
   [[menu.main]]
   name="归档"
   url="/archives/"
-  weight="4"
+  weight="2"
   [[menu.main]]
   name="关于"
   url="/about/"
-  weight="5"
+  weight="3"
   [[menu.main]]
   name="🔍"
   url="/search/"
-  weight="6"
+  weight="4"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -52,7 +53,14 @@ ignoreErrors = ["error-remote-getjson","error-remote-getcsv"]
   ReadMore = "阅读全文"
   
   description = "生命就是反重力的过程"
-	keywords = "博客、app、折腾、生活、阅读、自律"
+	keywords = ["阅读", "运动"]
+
+  UseHugoToc = true
+  ShowBreadCrumbs = true
+  hideSummary = false
+
+  mainSections = "posts"
+
  
 
 [markup]

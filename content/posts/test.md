@@ -1,11 +1,15 @@
 ---
-layout: post
-title: "本地运行大模型"
-date: 2024-05-12 20:25:25
-tags: [视频教学, LLM]
 comments: true
+date: "2024-05-13 20:25:25"
+layout: post
 published: true
+tags:
+- blog
+- 自服务
+title: 弃用 Wordpress，拥抱 Hugo
 ---
+
+使用 Markdown 写作博客
 
 ```bash
 $ hugo
