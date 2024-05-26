@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Template on All in Obsidian</title>
+    <link>https://twotwo.github.io/hugo-template/tags/template/</link>
+    <description>Recent content in Template on All in Obsidian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://twotwo.github.io/hugo-template/tags/template/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Update Google Analytics to GA4</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/hugo-add-google-analytics/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/hugo-add-google-analytics/</guid>
+      <description>&lt;p&gt;在官网找到 Google Analytics 4 Property Setup Assistant, 点击确认后出现 &lt;code&gt;You have successfully connected your properties.&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://support.google.com/analytics/answer/9744165?hl=en_US&amp;amp;utm_id=ad&#34;&gt;Learn more about Google Analytics 4 properties&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on All in Obsidian</title>
+    <link>https://twotwo.github.io/hugo-template/</link>
+    <description>Recent content in Introduction on All in Obsidian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://twotwo.github.io/hugo-template/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何指定 Hugo 网站主题</title>
+      <link>https://twotwo.github.io/hugo-template/posts/switch-themes-in-hugo/</link>
+      <pubDate>Sat, 25 May 2024 10:25:25 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/switch-themes-in-hugo/</guid>
+      <description>&lt;p&gt;Hugo 提供了大量可选&lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;主题&lt;/a&gt; 供我们使用。虽然适配工作有一定成本，但这个付出是值得的。这次总结一下如何快速切换适配好的主题。&lt;/p&gt;&#xA;&lt;p&gt;查看 &lt;a href=&#34;https://gohugo.io/commands/hugo_server/&#34;&gt;hugo server&lt;/a&gt; 命令行工具文档，提供了 &lt;code&gt;--theme&lt;/code&gt; 参数，用来指定启动时使用的主题，例如&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;hugo server --theme hugo-book&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating a New Theme in Hugo</title>
+      <link>https://twotwo.github.io/hugo-template/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/creating-a-new-theme/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;本教程将展示如何在 Hugo 中创建一个简单的主题。我假设你熟悉 HTML、bash 命令行，并且你很熟悉使用 Markdown 来格式化内容。我将解释 Hugo 如何使用模板以及如何组织模板以创建主题。我不会介绍如何使用 CSS 来设置主题样式。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo Book 主题配置指南</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/themes-hugo-book/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/themes-hugo-book/</guid>
+      <description>&lt;h2 id=&#34;参考资料&#34;&gt;&#xA;  参考资料&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-book/&#34;&gt;官网文档&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alex-shpak/hugo-book&#34;&gt;https://github.com/alex-shpak/hugo-book&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hugo-book-demo.netlify.app/&#34;&gt;Demo site&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Update Google Analytics to GA4</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/hugo-add-google-analytics/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/hugo-add-google-analytics/</guid>
+      <description>&lt;p&gt;在官网找到 Google Analytics 4 Property Setup Assistant, 点击确认后出现 &lt;code&gt;You have successfully connected your properties.&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://support.google.com/analytics/answer/9744165?hl=en_US&amp;amp;utm_id=ad&#34;&gt;Learn more about Google Analytics 4 properties&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/hugo-getting-started/</link>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/hugo-getting-started/</guid>
+      <description>&lt;p&gt;Hugo &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;Front matter&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/buttons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/buttons/</guid>
+      <description> Buttons # Buttons are styled links that can lead to local page or external link.&#xA;Example # {{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get Home Contribute </description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/columns/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/columns/</guid>
+      <description>Columns # Columns help organize shorter pieces of content horizontally for readability.&#xA;{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example # Left Content # Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/details/</guid>
+      <description>Details # Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.&#xA;Example # {{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} Title Markdown content # Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/expand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/expand/</guid>
+      <description>Expand # Expand shortcode can help to decrease clutter on screen by hiding part of text. Expand content by clicking on it.&#xA;Example # Default # {{&amp;lt; expand &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Expand ↕ Markdown content # Lorem markdownum insigne&amp;hellip;&#xA;With Custom Label # {{&amp;lt; expand &amp;#34;Custom Label&amp;#34; &amp;#34;...&amp;#34; &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /expand &amp;gt;}} Custom Label ... Markdown content # Lorem markdownum insigne.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/hints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/hints/</guid>
+      <description>Hints # Hint shortcode can be used as hint/alerts/notification block.&#xA;There are 3 colors to choose: info, warning and danger.&#xA;{{&amp;lt; hint [info|warning|danger] &amp;gt;}} **Markdown content** Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa {{&amp;lt; /hint &amp;gt;}} Example # Markdown content&#xA;Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter! Oculis non ritibus Telethusa Markdown content</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/mermaid/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/mermaid/</guid>
+      <description>Mermaid Chart # MermaidJS is library for generating svg charts and diagrams from text.&#xA;Override Mermaid Initialization Config&#xA;To override the initialization config for Mermaid, create a mermaid.json file in your assets folder!&#xA;Example # {{&amp;lt; mermaid class=&amp;#34;optional&amp;#34; &amp;gt;}} stateDiagram-v2 State1: The state with a note note right of State1 Important information! You can write notes. end note State1 --&amp;gt; State2 note left of State2 : This is the note to the left.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/section/first-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/section/first-page/</guid>
+      <description>First page # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/section/second-page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/section/second-page/</guid>
+      <description>Second Page # Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/tabs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/tabs/</guid>
+      <description>Tabs # Tabs let you organize content by context, for example installation instructions for each supported platform.&#xA;{{&amp;lt; tabs &amp;#34;uniqueid&amp;#34; &amp;gt;}} {{&amp;lt; tab &amp;#34;MacOS&amp;#34; &amp;gt;}} # MacOS Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Linux&amp;#34; &amp;gt;}} # Linux Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab &amp;#34;Windows&amp;#34; &amp;gt;}} # Windows Content {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabs &amp;gt;}} Example # MacOS MacOS # This is tab MacOS content.&#xA;Lorem markdownum insigne. Olympo signis Delphis!</description>
+    </item>
+    <item>
+      <title>KaTeX</title>
+      <link>https://twotwo.github.io/hugo-template/docs/shortcodes/katex/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/docs/shortcodes/katex/</guid>
+      <description>KaTeX # KaTeX shortcode let you render math typesetting in markdown document. See KaTeX&#xA;Example # {{&amp;lt; katex display=true class=&amp;#34;optional&amp;#34; &amp;gt;}} f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi {{&amp;lt; /katex &amp;gt;}} \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Display Mode Example # Here is some inline example: \(\pi(x)\) , rendered in the same line. And below is display example, having display: block \[f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi\] Text continues here.</description>
+    </item>
+  </channel>
+</rss>

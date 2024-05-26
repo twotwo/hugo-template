@@ -1,5 +1,5 @@
 baseURL: "http://li3huo.com/"
-title: 李三火的博客
+title: All in Obsidian
 copyright: © 2005 ~ 2024
 theme: PaperMod
 
@@ -16,7 +16,7 @@ buildExpired: false
 
 enableEmoji: true
 
-# googleAnalytics: 
+googleAnalytics: "397053425"
 
 minify:
   disableXML: true

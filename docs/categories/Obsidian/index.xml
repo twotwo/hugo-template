@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on All in Obsidian</title>
+    <link>https://twotwo.github.io/hugo-template/categories/Obsidian/</link>
+    <description>Recent content in Obsidian on All in Obsidian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://twotwo.github.io/hugo-template/categories/Obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/hugo-getting-started/</link>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/hugo-getting-started/</guid>
+      <description>&lt;p&gt;Hugo &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;Front matter&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

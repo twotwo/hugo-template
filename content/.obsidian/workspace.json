@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9e37e1d745716cfa",
+        "id": "430a5daadc8769fc",
         "type": "tabs",
         "children": [
           {
-            "id": "1a0317ec60647565",
+            "id": "cf774011eaa7153a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +17,20 @@
                 "mode": "source",
                 "source": true
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "18324bf805217e2a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9291f2c2d3ee2d5",
+            "type": "leaf",
+            "state": {
+              "type": "hugo-preview-view",
+              "state": {}
             }
           }
         ]
@@ -48,7 +62,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "{:width=\"640\"}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -134,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +161,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a0317ec60647565",
+  "active": "c9291f2c2d3ee2d5",
   "lastOpenFiles": [
+    "posts/obsidian-blog-hugo.md",
+    "posts/hugo-add-google-analytics.md",
+    "posts/hugo-post-template.md",
+    "posts/2016/farewell-wordpress.md",
+    "posts/2016/the_longest_seven_days.md",
+    "posts/2016/the_first_snow_of_2016.md",
+    "posts/2016/beijing_climate_clearing_and_clouding.md",
+    "posts/2016/long_underwear.md",
+    "posts/2016/au_trip_201603_melbourne_two.md",
+    "posts/2016/au_trip_201603_melbourne_three.md",
+    "posts/2016/au_trip_201603_melbourne_one.md",
+    "posts/2016/gitc_2016_bj_mi.md",
+    "posts/2016/gitc_2016_bj_fe.md",
     "hugo-vault.png",
     "huge-create-vault.png",
     "Pasted image 20240514211554.png",
-    "posts/obsidian-blog-hugo.md",
     "goods.md",
     "talk.md",
     "me-goods.md",
@@ -163,7 +190,6 @@
     "album.md",
     "bb.md",
     "about.md",
-    "posts/2016/au_trip_201603_melbourne_one.md",
     "huge-create-vault 1.png",
     "posts/_index.md",
     "Welcome.md"

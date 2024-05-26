@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on All in Obsidian</title>
+    <link>https://twotwo.github.io/hugo-template/posts/</link>
+    <description>Recent content in Blog on All in Obsidian</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://twotwo.github.io/hugo-template/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何指定 Hugo 网站主题</title>
+      <link>https://twotwo.github.io/hugo-template/posts/switch-themes-in-hugo/</link>
+      <pubDate>Sat, 25 May 2024 10:25:25 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/switch-themes-in-hugo/</guid>
+      <description>&lt;p&gt;Hugo 提供了大量可选&lt;a href=&#34;https://themes.gohugo.io/&#34;&gt;主题&lt;/a&gt; 供我们使用。虽然适配工作有一定成本，但这个付出是值得的。这次总结一下如何快速切换适配好的主题。&lt;/p&gt;&#xA;&lt;p&gt;查看 &lt;a href=&#34;https://gohugo.io/commands/hugo_server/&#34;&gt;hugo server&lt;/a&gt; 命令行工具文档，提供了 &lt;code&gt;--theme&lt;/code&gt; 参数，用来指定启动时使用的主题，例如&lt;/p&gt;&#xA;&lt;p&gt;&lt;code&gt;hugo server --theme hugo-book&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating a New Theme in Hugo</title>
+      <link>https://twotwo.github.io/hugo-template/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/creating-a-new-theme/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;本教程将展示如何在 Hugo 中创建一个简单的主题。我假设你熟悉 HTML、bash 命令行，并且你很熟悉使用 Markdown 来格式化内容。我将解释 Hugo 如何使用模板以及如何组织模板以创建主题。我不会介绍如何使用 CSS 来设置主题样式。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hugo Book 主题配置指南</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/themes-hugo-book/</link>
+      <pubDate>Sun, 26 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/themes-hugo-book/</guid>
+      <description>&lt;h2 id=&#34;参考资料&#34;&gt;&#xA;  参考资料&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%e5%8f%82%e8%80%83%e8%b5%84%e6%96%99&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-book/&#34;&gt;官网文档&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/alex-shpak/hugo-book&#34;&gt;https://github.com/alex-shpak/hugo-book&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://hugo-book-demo.netlify.app/&#34;&gt;Demo site&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Update Google Analytics to GA4</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/hugo-add-google-analytics/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/hugo-add-google-analytics/</guid>
+      <description>&lt;p&gt;在官网找到 Google Analytics 4 Property Setup Assistant, 点击确认后出现 &lt;code&gt;You have successfully connected your properties.&lt;/code&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://support.google.com/analytics/answer/9744165?hl=en_US&amp;amp;utm_id=ad&#34;&gt;Learn more about Google Analytics 4 properties&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>https://twotwo.github.io/hugo-template/posts/2024/hugo-getting-started/</link>
+      <pubDate>Fri, 02 Feb 2024 04:14:54 -0800</pubDate>
+      <guid>https://twotwo.github.io/hugo-template/posts/2024/hugo-getting-started/</guid>
+      <description>&lt;p&gt;Hugo &lt;a href=&#34;https://gohugo.io/content-management/front-matter/&#34;&gt;Front matter&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

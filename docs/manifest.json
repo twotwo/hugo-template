@@ -1,0 +1,15 @@
+{
+  "name": "All in Obsidian",
+  "short_name": "All in Obsidian",
+  "start_url": "/hugo-template/",
+  "scope": "/hugo-template/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/hugo-template/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
