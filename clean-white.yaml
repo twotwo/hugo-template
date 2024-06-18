@@ -1,0 +1,92 @@
+# https://github.com/zhaohuabing/hugo_blog/blob/master/config.yaml
+baseURL: http://li3huo.com/
+title: 李三火的博客
+theme: cleanwhite
+languageCode: en-us
+preserveTaxonomyNames: true
+paginate: 6
+hasCJKLanguage: true
+
+Config:
+  Services:
+    GoogleAnalytics:
+      ID: 397053425
+    Disqus:
+      Shortname:
+outputs:
+  home:
+    - HTML
+    - RSS
+markup:
+  tableOfContents:
+    endLevel: 2
+    startLevel: 1
+  highlight:
+    style: dracula
+  goldmark:
+    renderer:
+      unsafe: true
+params:
+  header_image: /img/contact-bg.jpg
+  SEOTitle: 李三火的博客 | li3huo Blog
+  description: "李三火，程序员, 开源爱好者，生活探险家 | 这里是 李三火 的博客，与你一起发现更大的世界。"
+  keyword: >-
+    李三火, li3huo, li3huo, , 李三火的网络日志, 李三火的博客, li3huo Blog, 博客,
+    个人网站, 互联网, Web, 云原生, AI, LLM, Obsidian
+  slogan:
+  image_404: img/404-bg.jpg
+  title_404: "你来到了没有知识的荒原 :("
+  page_view_conter: false
+  sidebar_about_description: "INTJ, geek, engineer, programmer, software architect"
+  sidebar_avatar: https://all-in-obsidian.li3huo.com/img/Obsidian.svg
+  featured_tags: true
+  featured_condition_size: 5
+  reward: false
+  reward_guide: 嗯，这篇文章对我有用，鼓励一下...
+  friends: true
+  bookmarks: true
+  about_me: true
+
+  friend_link:
+    - title: 张老汉
+      href: "https://www.somedoc.net/"
+    - title: 吴晓华
+      href: "http://www.wuxiaohua.com/"
+    - title: 李新阳
+      href: "http://lixinyang.com"
+    - title: Lillian Who
+      href: "https://lillianwho.com/"
+    - title: Hacper
+      href: "https://hacperme.com/"
+  bookmark_link:
+    - title: twotwo's home
+      href: "https://twotwo.github.io/"
+    - title: All in Obsidian
+      href: "https://all-in-obsidian.li3huo.com/"
+    - title: Visuals for everyone
+      href: "https://unsplash.com/"
+    - title: pexels
+      href: "https://www.pexels.com"
+    - title: excalidraw
+      href: "https://excalidraw.com/"
+    - title: Markdown Editor
+      href: "https://doocs.github.io/md"
+    - title: xiaomark
+      href: "https://xiaomark.com/"
+
+  addtional_menus:
+    # - title: READING
+    #   href: /reading/
+    # - title: TRAVEL
+    #   href: /travel/
+    # - title: OBSIDIAN
+    #   href: /obsidian/
+    - title: ARCHIVE
+      href: /archive/
+    # - title: ABOUT
+    #   href: /about/
+
+module:
+  mounts:
+    - source: themes/cleanwhite/exampleSite/static
+      target: static
