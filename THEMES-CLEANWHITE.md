@@ -8,17 +8,20 @@
 
 ## Hack the Template
 
+1. Fix Content Type: `grep post\" themes/cleanwhite/layouts/* -r`
+2. Modify Font Family
+
+Corresponding modified:
     modified:   themes/cleanwhite/layouts/_default/archive.html
     modified:   themes/cleanwhite/layouts/partials/category.html
     modified:   themes/cleanwhite/layouts/partials/portfolio.html
     modified:   themes/cleanwhite/static/css/hugo-theme-cleanwhite.min.css
 
-### Fix Content Type
+## Launch Example Site
 
-`grep post\" themes/cleanwhite/layouts/* -r`
-
-### Modify Font Family
-
-### Launch Server
-
-`hugo server --disableFastRender -D --config clean-white.yaml`
+```bash
+# Copy example site files
+cp -r themes/cleanwhite/exampleSite/* .
+# Lauch Server
+hugo server --disableFastRender -D
+```
